@@ -119,46 +119,46 @@ Imagens de funcionamento do 'Sistema de Mensagens' usado pela ferramenta de test
 
 ### lOGIN:
 
-![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/login.jpg](Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/login.jpg)
+![](https://github.com/sirwez/API-Rest-Sistema-de-Mensagens/blob/21b234820b34ed6506d82b63ce4046f81f2604e0/img/login.jpg)
 
                           Login usando ID 1, usuário já cadastrado.
 
 ### CADASTRO:
 
-![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/cadastrar.jpg](Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/cadastrar.jpg)
+![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/cadastrar.jpg](https://github.com/sirwez/API-Rest-Sistema-de-Mensagens/blob/21b234820b34ed6506d82b63ce4046f81f2604e0/img/cadastrar.jpg)
 
                  Cadastro do usuário Cesar, e retornando seu ID de login.
 
 ### EMAILS:
 
-![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/emailsListar.jpg](Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/emailsListar.jpg)
+![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/emailsListar.jpg](https://github.com/sirwez/API-Rest-Sistema-de-Mensagens/blob/21b234820b34ed6506d82b63ce4046f81f2604e0/img/emailsListar.jpg)
 
                          Listagem de todos os emails do usuário Ismael.
 
 ### EMAIL INDIVIDUAL:
 
-![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/listar_por_ID.jpg](Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/listar_por_ID.jpg)
+![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/listar_por_ID.jpg](https://github.com/sirwez/API-Rest-Sistema-de-Mensagens/blob/21b234820b34ed6506d82b63ce4046f81f2604e0/img/listar%20por%20ID.jpg)
 
                        Mostrando um email individualmente, como dito nas observações, esse email é setado pelo ID únicode mensagem.
 
 ### ENVIAR:
 
-![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/enviar.jpg](Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/enviar.jpg)
+![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/enviar.jpg](https://github.com/sirwez/API-Rest-Sistema-de-Mensagens/blob/21b234820b34ed6506d82b63ce4046f81f2604e0/img/enviar.jpg)
 
 ### RESPONDER:
 
-![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/responder.jpg](Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/responder.jpg)
+![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/responder.jpg](https://github.com/sirwez/API-Rest-Sistema-de-Mensagens/blob/21b234820b34ed6506d82b63ce4046f81f2604e0/img/responder.jpg)
 
                           Respondendo ao email cujo ID único é 2.
 
 ### ENCAMINHAR:
 
-![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/encaminhada.jpg](Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/encaminhada.jpg)
+![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/encaminhada.jpg](https://github.com/sirwez/API-Rest-Sistema-de-Mensagens/blob/21b234820b34ed6506d82b63ce4046f81f2604e0/img/encaminhada.jpg)
 
                            Encaminhando um email para o usuário Cesar 
 
 ### DELETADO:
 
-![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/deletado.jpg](Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/deletado.jpg)
+![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/deletado.jpg](https://github.com/sirwez/API-Rest-Sistema-de-Mensagens/blob/21b234820b34ed6506d82b63ce4046f81f2604e0/img/deletado.jpg)
 
                                       Mensagem com ID Único deletada
