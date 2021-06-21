@@ -96,11 +96,7 @@ Não segue nenhum modelo arquitetural de software, como MVC por exempl
 - [ ]  interface
 - Observações:
 
-    1 - Infelizmente não fiz o Cliente para consumir a api, mas segue junto imagens do consumo da api pelo programa Insomnia, mas também pode ser utilizado o Postman, ou qualquer outro programa para consumo de api.
-
-    2 - Nas imagens vai ter as formas de entradas e nas descrições acima tem as rotas a serem usadas
-
-    3 - Abaixo um passo a passo da forma de utilização da api.
+    - frontend ainda em progresso
 
 # Como usar?
 
