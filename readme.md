@@ -1,10 +1,8 @@
 # Lista de Funcionalidades Sistema de Mensagens | SD
 
-NOME: Weslley de Aquino Ferreira
+Autor: Weslley de Aquino Ferreira
 
-PROFESSOR: Weslley Emmanuel Martins Lima
-
-DISCIPLINA: Sistemas Distribuídos
+Disciplina: Sistemas Distribuídos
 
 ## **API REST em PHP 7.4.9**
 
