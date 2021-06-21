@@ -1,0 +1,46 @@
+[
+    {
+        "id": 2,
+        "uniqueID": 2,
+        "remetente": "Weslley",
+        "destinatario": "Ismael",
+        "assunto": "Segunda mensagem",
+        "corpo": "Bom dia :)",
+        "lida": false,
+        "resposta": false,
+        "encaminhada": false
+    },
+    {
+        "id": 1,
+        "uniqueID": 3,
+        "remetente": "Ismael",
+        "destinatario": "Cesar",
+        "assunto": "Terceira mensagem",
+        "corpo": "Esse \u00e9 um teste",
+        "lida": false,
+        "resposta": false,
+        "encaminhada": null
+    },
+    {
+        "id": 1,
+        "uniqueID": 4,
+        "remetente": "Ismael",
+        "destinatario": "Weslley",
+        "assunto": "Segunda mensagem",
+        "corpo": "Resposta de mensagem",
+        "lida": false,
+        "resposta": true,
+        "encaminhada": null
+    },
+    {
+        "id": 1,
+        "uniqueID": 5,
+        "remetente": "Ismael",
+        "destinatario": "Cesar",
+        "assunto": "Primeira mensagem",
+        "corpo": "Oi, povo",
+        "lida": false,
+        "resposta": false,
+        "encaminhada": null
+    }
+]

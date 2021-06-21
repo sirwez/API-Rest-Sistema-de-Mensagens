@@ -1,3 +1,11 @@
+# Lista de Funcionalidades Sistema de Mensagens | SD
+
+NOME: Weslley de Aquino Ferreira
+
+PROFESSOR: Weslley Emmanuel Martins Lima
+
+DISCIPLINA: Sistemas Distribuídos
+
 ## **API REST em PHP 7.4.9**
 
 API REST desenvolvida na linguagem PHP para matéria de Sistemas Distribuidos - UFPI à fim de aprender conceitos relacionadas à webservice.
@@ -10,10 +18,14 @@ Não segue nenhum modelo arquitetural de software, como MVC por exempl
 - Modelo REST
 - Orientação à Objetos(POO)
 - JSON
-- Autoloading de classes
-- Namespaces
 - Apache 2.4.46
 - Métodos GET, POST e DELETE
+
+## **Sistema**
+
+- Windows 10
+- Apache 2.4.46
+- Não testado em sistema Linux.
 
 ## Campos dos Arquivos JSON
 
@@ -84,7 +96,11 @@ Não segue nenhum modelo arquitetural de software, como MVC por exempl
 - [ ]  interface
 - Observações:
 
-    - Frontend ainda em progresso, em breve update para usar banco de dados.
+    1 - Infelizmente não fiz o Cliente para consumir a api, mas segue junto imagens do consumo da api pelo programa Insomnia, mas também pode ser utilizado o Postman, ou qualquer outro programa para consumo de api.
+
+    2 - Nas imagens vai ter as formas de entradas e nas descrições acima tem as rotas a serem usadas
+
+    3 - Abaixo um passo a passo da forma de utilização da api.
 
 # Como usar?
 
@@ -96,3 +112,53 @@ Não segue nenhum modelo arquitetural de software, como MVC por exempl
 - para enviar acesse */usuarios/enviar, no corpo você deve inserir* os campos Remetente, Destinatário, Assunto, e Corpo.
 - para encaminhar acesse */usuarios/encaminhar, você insere o corpo com os dados id único e o remetente, o remetente também deve existir.*
 - para responder acesse */usuarios/responder, no corpo da requisição você deve enviar o id único e o corpo da mensagem, que se refere texto que você quer enviar.*
+
+O sistema tem duas mensagens e dois usuários (Ismael, e Weslley) pré-cadastrados.
+
+Imagens de funcionamento do 'Sistema de Mensagens' usado pela ferramenta de testes de APIs REST **INSOMNIA.**
+
+### lOGIN:
+
+![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/login.jpg](Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/login.jpg)
+
+                          Login usando ID 1, usuário já cadastrado.
+
+### CADASTRO:
+
+![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/cadastrar.jpg](Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/cadastrar.jpg)
+
+                 Cadastro do usuário Cesar, e retornando seu ID de login.
+
+### EMAILS:
+
+![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/emailsListar.jpg](Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/emailsListar.jpg)
+
+                         Listagem de todos os emails do usuário Ismael.
+
+### EMAIL INDIVIDUAL:
+
+![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/listar_por_ID.jpg](Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/listar_por_ID.jpg)
+
+                       Mostrando um email individualmente, como dito nas observações, esse email é setado pelo ID únicode mensagem.
+
+### ENVIAR:
+
+![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/enviar.jpg](Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/enviar.jpg)
+
+### RESPONDER:
+
+![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/responder.jpg](Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/responder.jpg)
+
+                          Respondendo ao email cujo ID único é 2.
+
+### ENCAMINHAR:
+
+![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/encaminhada.jpg](Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/encaminhada.jpg)
+
+                           Encaminhando um email para o usuário Cesar 
+
+### DELETADO:
+
+![Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/deletado.jpg](Lista%20de%20Funcionalidades%20Sistema%20de%20Mensagens%20SD%2026dbc7808b484a8c94e49dc15b8b52ae/deletado.jpg)
+
+                                      Mensagem com ID Único deletada
